@@ -1,0 +1,29 @@
+{
+  "name": "watson-conversation",
+  "version": "0.0.1",
+  "description": "Conversation Watson API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonatatechne/WatsonConversationAPI.git"
+  },
+  "keywords": [
+    "chatbot",
+    "conversation",
+    "watson",
+    "robo"
+  ],
+  "author": "Jonata Hessa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonatatechne/WatsonConversationAPI/issues"
+  },
+  "homepage": "https://github.com/jonatatechne/WatsonConversationAPI#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "watson-developer-cloud": "^3.18.1"
+  }
+}
